@@ -13,7 +13,7 @@ public class WarGameDemo{
 
    public static void main(String[]args){
             
-      WarGame gameBoard = new WarGame();
+      WarGame playGame = new WarGame();
             
    }
 }
